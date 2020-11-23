@@ -2,7 +2,8 @@
 
 How to start?
 
-```git clone https://github.com/OneParsec/ydis
+```
+git clone https://github.com/OneParsec/ydis
 
 cd ydis
 python ydis.py
