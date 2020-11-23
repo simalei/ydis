@@ -1,5 +1,10 @@
 #!/usr/bin/python3
 # Coded by OneParsec
-from core.shell import *
+import sys
+
+if sys.platform == 'linux':
+    from core.shell_win import *
+else:
+    from core.shell import *
 
 shell()

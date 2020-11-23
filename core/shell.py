@@ -34,10 +34,6 @@ def help():
 
 
 def startup_message():
-	if platform == 'win32':
-		print("YDIS not support Windows now! Check official github page (https://github.com/OneParsec/ydis) for updates!")
-		sleep(10)
-	else:
 		print("Welcome to " + R + "YouTube " + W + "Downloader Interactive Shell (YDIS)!\nType help!")
 
 def shell():
