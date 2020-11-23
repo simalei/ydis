@@ -8,4 +8,4 @@ pip install -r requirements.txt
 cd ydis
 python ydis.py
 ```
-
+or go to releases and download compiled version for Windows or Linux
