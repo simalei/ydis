@@ -24,7 +24,7 @@ def help():
     print("run      Start downloading")
     print("set      Set parameters")
     print("Avalible parameters: link, resolution")
-    print("Example set link https://www.youtube.com")
+    print("Example set link https://www.youtube.com/watch?v=Tw-GGT6900s")
     
 def startup_message():
     print("Welcome to " + R + "YouTube " + W + "Downloader Interactive Shell!")
@@ -84,17 +84,6 @@ def shell():
 
 startup_message()
 shell()
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
     
     
     
