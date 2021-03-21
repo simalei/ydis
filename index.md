@@ -16,7 +16,7 @@ YDIS features:
 
 
 **Download YDIS!**
-[Download It!](https://github.com/OneParsec/ydis/releases/lastest)
+[Download It!](https://github.com/OneParsec/ydis/releases/tag/v1.1)
 
 
 
